@@ -1,6 +1,6 @@
 {
   "name": "@royyanbach/demo-shared-libraries",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Demo package for shared libraries",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/royyanbach/demo-shared-libraries/issues"
   },
-  "homepage": "https://github.com/royyanbach/demo-shared-libraries#readme"
+  "homepage": "https://github.com/royyanbach/demo-shared-libraries#readme",
+  "type": "module"
 }
